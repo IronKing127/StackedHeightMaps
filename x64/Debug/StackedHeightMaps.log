@@ -1,0 +1,6 @@
+﻿Gameloop.obj : error LNK2019: unresolved external symbol __imp_al_draw_text referenced in function main
+Gameloop.obj : error LNK2019: unresolved external symbol __imp_al_destroy_font referenced in function main
+Gameloop.obj : error LNK2019: unresolved external symbol __imp_al_init_font_addon referenced in function main
+Gameloop.obj : error LNK2019: unresolved external symbol __imp_al_load_ttf_font referenced in function main
+Gameloop.obj : error LNK2019: unresolved external symbol __imp_al_init_ttf_addon referenced in function main
+C:\Users\Owner\source\repos\StackedHeightMaps\x64\Debug\StackedHeightMaps.exe : fatal error LNK1120: 5 unresolved externals
